@@ -1,0 +1,21 @@
+{
+  "name": "fs-spread",
+  "version": "0.0.1",
+  "description": "对于 nodejs fs 的扩展",
+  "main": "index.js",
+  "author": "Tenny",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/ReconcileMySelf/fs-spread",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ReconcileMySelf/fs-spread.git"
+  },
+  "bugs": "https://github.com/ReconcileMySelf/fs-spread/issues",
+  "files": [
+    "index.js",
+    "lib/*",
+    "LICENSE",
+    "README.md"
+  ]
+}
